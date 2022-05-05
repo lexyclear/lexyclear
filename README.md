@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Lua.
 - 💞️ I’m looking to collaborate on bot projects.
 - 📫 How to reach me discord me DoggoVT#5773
+- ☕ Kofi: doggo_vt
 
 <!---
 lexyclear/lexyclear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
