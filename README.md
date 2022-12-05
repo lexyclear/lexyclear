@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bot development
 - 🌱 I’m currently maintaning the discord client wiki.
 - 💞️ I’m looking to collaborate on bot projects.
-- 📫 How to reach me discord me DoggoVT#5773
+- 📫 How to reach me discord me Doggo#5484
 - ☕ Kofi: doggo_vt
 
 <!---
