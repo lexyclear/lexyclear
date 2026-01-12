@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lexyclear
-- 👀 I’m interested in Bot development
+- 👀 I’m interested in Realm of Open Source
 - 🌱 I’m currently maintaning the discord client wiki.
-- 💞️ I’m looking to collaborate on bot projects.
-- 📫 How to reach me discord me nekopara
+- 💞️ I’m looking to collaborate on Modification and Open-Source programs and devices.
+- 📫 How to reach me discord me neko
 - 
 
 <!---
